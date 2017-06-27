@@ -8,4 +8,4 @@ $ npm run dev
 
 # To kill process <br />
 $ sudo lsof -PiTCP -sTCP:LISTEN <br />
-$ kill <PID> <br />
+$ kill < PID > <br />
