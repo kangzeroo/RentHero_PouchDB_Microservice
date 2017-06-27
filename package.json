@@ -1,0 +1,9 @@
+{
+  "name": "PouchDB",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "pouchdb-server --port 5984 --dir ./db &",
+    "prod": "pouchdb-server --port 5984 --dir ./db &"
+  }
+}
